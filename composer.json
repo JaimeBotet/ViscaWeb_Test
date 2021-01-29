@@ -1,0 +1,13 @@
+{
+    "name": "jaimecomp/tech_challenge",
+    "type": "project",
+    "description": "Job Test",
+    "authors": [{
+        "name": "JaimeBotet",
+        "email": "jaime.90.botet@gmail.com"
+    }],
+    "require": {
+        "symfony/dom-crawler": "^5.2",
+        "symfony/css-selector": "^5.2"
+    }
+}
